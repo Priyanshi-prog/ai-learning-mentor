@@ -30,7 +30,7 @@ The mentor operates using a closed-loop autonomous system:
 - Streamlit / CLI (for visualization)
 
 **Architecture Diagram:**
-![Architecture Diagram](https://github.com/user-attachments/assets/efef4276-ad89-4fa4-a726-971df4287825)
+![Architecture Diagram](architecture.png)
 
 - Data ingestion captures coding activity
 - Analysis engine detects weak areas and slow patterns
